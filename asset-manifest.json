@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.21e2f3c6.css",
-    "main.js": "/static/js/main.4f17ed0c.js",
+    "main.js": "/static/js/main.d0958ffa.js",
     "static/js/953.80625b0b.chunk.js": "/static/js/953.80625b0b.chunk.js",
     "static/css/245.7bfb5ed4.chunk.css": "/static/css/245.7bfb5ed4.chunk.css",
     "static/js/245.2b3da3a3.chunk.js": "/static/js/245.2b3da3a3.chunk.js",
     "static/media/87960965.gif": "/static/media/87960965.53146b10875f40aa13dc.gif",
     "static/media/dc7f8e1b.gif": "/static/media/dc7f8e1b.fa17ed6c1baa0358b7bc.gif",
     "static/media/itmp-1.png": "/static/media/itmp-1.6175b9defec12056986f.png",
-    "static/media/edunext_stage_image.png": "/static/media/edunext_stage_image.735c7d91a82fb94c28b3.png",
     "static/media/af1a3e22.svg": "/static/media/af1a3e22.d988949da4a82b35fe5d.svg",
     "static/media/4fbe2ff6.woff": "/static/media/4fbe2ff6.bf8479dcf4bd056b1337.woff",
     "static/media/c1f2fd26.woff": "/static/media/c1f2fd26.8ee9e096dc2fc2329e51.woff",
@@ -42,13 +41,13 @@
     "static/media/iokcafe4.png": "/static/media/iokcafe4.aaff3fe7894148873b2e.png",
     "index.html": "/index.html",
     "main.21e2f3c6.css.map": "/static/css/main.21e2f3c6.css.map",
-    "main.4f17ed0c.js.map": "/static/js/main.4f17ed0c.js.map",
+    "main.d0958ffa.js.map": "/static/js/main.d0958ffa.js.map",
     "953.80625b0b.chunk.js.map": "/static/js/953.80625b0b.chunk.js.map",
     "245.7bfb5ed4.chunk.css.map": "/static/css/245.7bfb5ed4.chunk.css.map",
     "245.2b3da3a3.chunk.js.map": "/static/js/245.2b3da3a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21e2f3c6.css",
-    "static/js/main.4f17ed0c.js"
+    "static/js/main.d0958ffa.js"
   ]
 }
